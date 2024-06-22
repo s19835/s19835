@@ -19,9 +19,6 @@ Enthusiastic student coder passionate about problem-solving and innovation in Ja
  <img align='left' alt='figma' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
  <img align='left' alt='chrome' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
  <img align='left' alt='postman' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
- <img align='left' alt='eslint' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
- <img align='left' alt='npm' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
- <img align='left' alt='p5js' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
  <img align='left' alt='vitejs' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <br />
 <br />
