@@ -1,5 +1,5 @@
 # Maria Niranjan
----
+
 **`Enthusiastic Coder with a Passion for Problem-Solving`**
 
 Enthusiastic student coder passionate about problem-solving and innovation in JavaScript and web development. Dedicated to creating seamless web applications, while learning HTML, CSS, SQL, and Python. Continuously pushing boundaries to craft elegant software solutions.
@@ -22,8 +22,7 @@ Enthusiastic student coder passionate about problem-solving and innovation in Ja
  <img align='left' alt='postman' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
  <img align='left' alt='xcode' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
  <img align='left' alt='blender' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-<br/>
-#
+
 ---
 <h3> more about me... </h3>
  I am an avid coder who thrives on tackling challenging problems and developing innovative solutions. My journey in coding began with a curiosity for how things work and has since evolved into a deep-seated passion for creating efficient and elegant software. 
