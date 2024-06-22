@@ -13,7 +13,6 @@ Enthusiastic student coder passionate about problem-solving and innovation in Ja
  <img align='left' alt='nodeJS' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
  <img align='left' alt='react' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
  <img align='left' alt='git' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
- <img align='left' alt='github' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
  <img align='left' alt='python' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
  <img align='left' alt='homebrew' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
  <img align='left' alt='notion' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
@@ -23,7 +22,6 @@ Enthusiastic student coder passionate about problem-solving and innovation in Ja
  <img align='left' alt='eslint' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
  <img align='left' alt='npm' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
  <img align='left' alt='p5js' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
- <img align='left' alt='xcode' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
  <img align='left' alt='vitejs' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <br />
 <br />
