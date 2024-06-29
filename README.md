@@ -2,7 +2,7 @@
 
 **`Enthusiastic Coder with a Passion for Problem-Solving`**
 
-Enthusiastic student coder passionate about problem-solving and innovation in JavaScript and web development. Dedicated to creating seamless web applications, while learning HTML, CSS, SQL, and Python. Continuously pushing boundaries to craft elegant software solutions.
+Enthusiastic student coder passionate about problem-solving and innovation in JavaScript and web development. Dedicated to creating seamless applications, while learning programming languages. Continuously pushing boundaries to craft elegant software solutions.
 
 ### Languages and Tools
  <img align='left' alt='Java Script' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
