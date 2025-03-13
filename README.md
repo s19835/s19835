@@ -36,3 +36,5 @@ Enthusiastic student coder passionate about problem-solving and innovation in Ja
  
  In essence, coding is not just a profession for me—it's a lifelong passion that drives me to push the boundaries of what's possible and to continuously improve my craft.
 </details>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="maria-niranjan-192479270" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/maria-niranjan-192479270?trk=profile-badge">Maria Niranjan</a></div>
