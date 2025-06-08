@@ -2,7 +2,7 @@
 
 **`Enthusiastic Coder with a Passion for Problem-Solving`**
 
-Enthusiastic student coder passionate about problem-solving and innovation in JavaScript and web development. Dedicated to creating seamless applications, while learning programming languages. Continuously pushing boundaries to craft elegant software solutions.
+I am a student passionate about backend engineering with a keen interest in integrating AI development into scalable systems. My technical toolkit includes Golang, JavaScript, Python, and associated frameworks and libraries, which I use to build efficient, robust applications.
 
 ### Languages and Tools
  <img align='left' alt='Java Script' width="30px" style="pading-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -26,15 +26,16 @@ Enthusiastic student coder passionate about problem-solving and innovation in Ja
 
 `Aspiring Programmer/ Coding Enthusiast` <br />
 <br />
- I am an avid coder who thrives on tackling challenging problems and developing innovative solutions. My journey in coding began with a curiosity for how things work and has since evolved into a deep-seated passion for creating efficient and elegant software. 
- 
- As a student currently learning to code, I have developed a particular affinity for JavaScript and web development. I am dedicated to honing my skills in both frontend and backend development, striving to become proficient in crafting seamless and dynamic web applications. My toolkit includes a solid foundation in JavaScript, HTML, CSS, SQL, and Python.
- 
- Whether it's building web applications, scripting automation tasks, or building user-friendly interfaces or developing robust server-side logic, I find joy in every aspect of the coding process. I am particularly drawn to projects that require a blend of creativity and logical thinking, where I can apply my knowledge to solve real-world problems.
- 
- I dedicate time to continuous learning through reading technical books and working on personal projects to further hone my skills and stay ahead in the rapidly evolving tech landscape.
- 
- In essence, coding is not just a profession for me—it's a lifelong passion that drives me to push the boundaries of what's possible and to continuously improve my craft.
-</details>
+**Projects:**
+- **house-price-prediction:** Leveraging machine learning to estimate real estate values.
+- **url-shortener-go:** A performant URL shortener service written in Go.
+- **pg-opt-toolkit:** A toolkit for PostgreSQL optimization and management.
+
+**Interests:**  
+Backend architecture, machine learning, automation, API design, cloud-native technologies, and exploring the intersection of data engineering and AI.
+
+---
+
+Always eager to learn, collaborate, and contribute to innovative projects at the intersection of backend development and artificial intelligence.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="maria-niranjan-192479270" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/maria-niranjan-192479270?trk=profile-badge">Maria Niranjan</a></div>
